@@ -1,0 +1,112 @@
+{
+  "about": {
+    "intro": "أنا **FRL** — مختص في *الأمن السيبراني* ولاعب CTF ومنتج ومصمم.",
+    "description": "أستكشف الأمن السيبراني من خلال **Kali Linux** و**Python** والتشفير وعمليات Blue Team وسير عمل SOC وOSINT. كما أصنع أعمالًا بصرية باستخدام After Effects وBlender وPhotoshop وأدوات الذكاء الاصطناعي.",
+    "full": "مرحبًا، أنا **فراس**، والمعروف على الإنترنت باسم **FRL**. أختص في الأمن السيبراني، وأشارك في مسابقات CTF، وأعمل أيضًا في الإنتاج والتصميم.\n\nتشمل خبرتي الأمنية *Kali Linux* و*Python* والتشفير وعمليات *Blue Team* وسير عمل *SOC* و*OSINT*. أستمتع بفهم طريقة فشل الأنظمة، وكيف يستجيب المدافعون، وكيف يحوّل التفكير الواضح التحديات الصعبة إلى نتائج عملية.\n\nإلى جانب الأمن السيبراني، أعمل كمنتج ومصمم، وأستخدم *After Effects* و*Blender* و*Photoshop* و*AI* لتحويل الأفكار إلى أعمال بصرية وتجارب رقمية.\n\nهذا الموقع مساحة متجددة لمشاريعي القادمة وإنجازاتي في المسابقات وأعمالي الإبداعية."
+  },
+  "manifesto": [
+    "فضول هجومي",
+    "انضباط دفاعي",
+    "عقلية CTF",
+    "الإشارة قبل الضجيج",
+    "أنظمة إبداعية",
+    "تعلّم مستمر"
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "ARBITER",
+      "category": "OSINT والتحليل الجنائي",
+      "year": "2025",
+      "description": "ARBITER هي أداة متقدمة للتحليل الجنائي وOSINT، مصممة لمحللي SOC والباحثين في الأمن السيبراني. تستخدم Llama 3 عبر Groq API لاكتشاف نية التصيد والاستعجال والإكراه داخل محتوى البريد، وتستخرج مؤشرات الاختراق، وتحدد الموقع الجغرافي عبر محركين احتياطيين، وتعرض مصدر الهجوم على خريطة Leaflet تفاعلية، وتنشئ تقارير جنائية بصيغة PDF، وتحسب درجة تهديد ديناميكية من 0 إلى 100%.\n\nتم بناؤها باستخدام Python وFlask وHTML5 وCSS3 وJavaScript وLeaflet.js وIP-API وIPWhoIs.",
+      "image": "/projects/arbiter.png",
+      "repo": "https://github.com/RealFiras/arbiter-security",
+      "stack": [
+        "Python",
+        "Flask",
+        "Groq API",
+        "Llama 3",
+        "JavaScript",
+        "Leaflet.js",
+        "IP-API",
+        "IPWhoIs"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "PassBit",
+      "category": "الخصوصية والأمان",
+      "year": "2026",
+      "description": "PassBit هي إضافة Chrome مبنية وفق Manifest V3 وتركّز على الخصوصية. تفحص قوة كلمة المرور محليًا، وتتحقق مما إذا ظهرت في تسريبات سابقة من خلال استعلام آمن يعتمد على نطاقات Pwned Passwords، وتقترح بدائل أقوى، وتحفظ المفضلة محليًا داخل خزنة مشفّرة. الإضافة لا تحتاج إلى تبعيات، ولا تستخدم التتبع، ولا تحفظ كلمات المرور إلا إذا اختار المستخدم حفظها صراحةً.\n\nتم بناؤها باستخدام JavaScript وHTML وCSS وChrome Manifest V3 وWeb Crypto وPwned Passwords API.",
+      "image": "/projects/passbit.webp",
+      "repo": "https://github.com/RealFiras/PassBit",
+      "stack": [
+        "JavaScript",
+        "Chrome MV3",
+        "Web Crypto",
+        "HIBP API",
+        "تشفير محلي"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "",
+      "category": "",
+      "year": "",
+      "description": "",
+      "image": ""
+    }
+  ],
+  "roadmap": [
+    {
+      "id": "01",
+      "year": "2026",
+      "description": "مسابقة Jordensec CTF QUALIFY 2026 — المركز **الأول**.",
+      "stack": [
+        "CTF",
+        "الأمن السيبراني",
+        "Top 1"
+      ]
+    },
+    {
+      "id": "02",
+      "year": "2026",
+      "description": "مسابقة BRK-CYS CTF 2026 — ضمن **أفضل 3**.",
+      "stack": [
+        "CTF",
+        "الأمن السيبراني",
+        "Top 3"
+      ]
+    },
+    {
+      "id": "03",
+      "year": "2025",
+      "description": "مسابقة P3rf3ctr00t CTF 2025 — ضمن **أفضل 6**.",
+      "stack": [
+        "CTF",
+        "الأمن السيبراني",
+        "Top 6"
+      ]
+    },
+    {
+      "id": "04",
+      "year": "2026",
+      "description": "مسابقة ThryveCTF QUALIFY 2026 — ضمن **أفضل 7**.",
+      "stack": [
+        "CTF",
+        "الأمن السيبراني",
+        "Top 7"
+      ]
+    },
+    {
+      "id": "05",
+      "year": "2026",
+      "description": "نهائيات ThryveCTF Finals 2026 — المركز **الثاني**.",
+      "stack": [
+        "CTF",
+        "الأمن السيبراني",
+        "Top 2"
+      ]
+    }
+  ]
+}

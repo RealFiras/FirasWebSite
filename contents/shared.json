@@ -1,0 +1,108 @@
+{
+  "contact": {
+    "location": "Available worldwide",
+    "email": "Firasmhmood224@gmail.com",
+    "phone": ""
+  },
+  "social": [
+    {
+      "label": "GitHub",
+      "href": "https://github.com/RealFiras"
+    },
+    {
+      "label": "Instagram",
+      "href": "https://www.instagram.com/firasj0"
+    },
+    {
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/in/realfiras"
+    },
+    {
+      "label": "Discord · #realfiras",
+      "href": "https://discord.com/app"
+    }
+  ],
+  "stack": {
+    "frontend": [
+      {
+        "name": "Kali Linux",
+        "icon": "/stack/kalilinux.svg",
+        "featured": true
+      },
+      {
+        "name": "Python",
+        "icon": "/stack/python.svg",
+        "featured": true
+      },
+      {
+        "name": "Cryptography",
+        "icon": "",
+        "featured": true
+      },
+      {
+        "name": "CTF Player",
+        "icon": ""
+      }
+    ],
+    "backend": [
+      {
+        "name": "Blue Team",
+        "icon": "",
+        "featured": true
+      },
+      {
+        "name": "SOC",
+        "icon": "",
+        "featured": true
+      },
+      {
+        "name": "Defensive Security",
+        "icon": ""
+      },
+      {
+        "name": "Incident Response",
+        "icon": ""
+      }
+    ],
+    "database": [
+      {
+        "name": "OSINT",
+        "icon": "",
+        "featured": true
+      },
+      {
+        "name": "Threat Analysis",
+        "icon": "",
+        "featured": true
+      },
+      {
+        "name": "Reconnaissance",
+        "icon": ""
+      },
+      {
+        "name": "Digital Investigation",
+        "icon": ""
+      }
+    ],
+    "tools": [
+      {
+        "name": "After Effects",
+        "icon": "/stack/aftereffects.svg",
+        "featured": true
+      },
+      {
+        "name": "Blender",
+        "icon": "/stack/blender.svg",
+        "featured": true
+      },
+      {
+        "name": "Photoshop",
+        "icon": "/stack/photoshop.svg"
+      },
+      {
+        "name": "AI",
+        "icon": "/stack/openai.svg"
+      }
+    ]
+  }
+}

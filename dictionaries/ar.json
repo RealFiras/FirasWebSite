@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "about": "عني",
+    "stack": "المهارات",
+    "projects": "المشاريع",
+    "roadmap": "الإنجازات",
+    "contact": "تواصل"
+  },
+  "title": {
+    "about": "عني",
+    "stack": "المهارات",
+    "projects": "المشاريع",
+    "roadmap": "الإنجازات",
+    "contact": "تواصل"
+  },
+  "scrollDown": "مرر",
+  "contactMe": "تواصل معي",
+  "exploreProjects": "استكشف المشاريع",
+  "readFullVersion": "اقرأ القصة كاملة",
+  "frontendStack": "أساسيات الأمن",
+  "backendStack": "العمليات الدفاعية",
+  "databaseStack": "التحليل والاستخبارات",
+  "toolsStack": "الإنتاج والتصميم",
+  "projectsIntro": "مساحة لـ*المشاريع القادمة* و*التجارب* و*الأعمال الرقمية*.",
+  "projectsScrollText": "مرر للاستكشاف",
+  "projectsEndText": "المزيد قريبًا",
+  "roadmapDescription": "سجل مشاركاتي في مسابقات CTF والإنجازات التي تشكل مساري في الأمن السيبراني.",
+  "contactIntroText": "للتعاون في الأمن السيبراني أو الإنتاج أو التصميم أو التقنية الإبداعية.",
+  "sendEmail": "أرسل بريدًا",
+  "directLine": "تواصل مباشر",
+  "allRightsReserved": "جميع الحقوق محفوظة.",
+  "contactModalDescription": "أرسل لي رسالة وسأعود إليك في أقرب وقت ممكن.",
+  "projectDetails": "تفاصيل",
+  "aboutProject": "عن المشروع",
+  "technologies": "التقنيات",
+  "liveDemo": "عرض مباشر",
+  "sourceCode": "الكود المصدري",
+  "notFound": {
+    "title": "الصفحة غير موجودة",
+    "description": "ربما أزيلت الصفحة التي تبحث عنها أو تغير اسمها أو أصبحت غير متاحة مؤقتًا.",
+    "goHome": "العودة للرئيسية"
+  }
+}

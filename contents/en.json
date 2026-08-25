@@ -1,0 +1,112 @@
+{
+  "about": {
+    "intro": "I'm **FRL** — a *cybersecurity practitioner*, CTF player, producer, and designer.",
+    "description": "I explore cybersecurity through **Kali Linux**, **Python**, cryptography, Blue Team operations, SOC workflows, and OSINT. I also create visual work with After Effects, Blender, Photoshop, and AI.",
+    "full": "Hi, I'm **Firas**, known online as **FRL**. I specialize in cybersecurity, compete in CTFs, and work across production and design.\n\nMy security practice includes *Kali Linux*, *Python*, cryptography, *Blue Team* operations, *SOC* workflows, and *OSINT*. I enjoy understanding how systems fail, how defenders respond, and how clear thinking turns difficult challenges into practical results.\n\nAlongside cybersecurity, I work as a producer and designer, using *After Effects*, *Blender*, *Photoshop*, and *AI* to build visual ideas and digital experiences.\n\nThis portfolio is a living space for my future projects, competition milestones, and creative work."
+  },
+  "manifesto": [
+    "OFFENSIVE CURIOSITY",
+    "DEFENSIVE DISCIPLINE",
+    "CTF MINDSET",
+    "SIGNAL OVER NOISE",
+    "CREATIVE SYSTEMS",
+    "ALWAYS LEARNING"
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "ARBITER",
+      "category": "OSINT & Forensics",
+      "year": "2025",
+      "description": "ARBITER is an advanced OSINT and forensic analysis tool for SOC analysts and cybersecurity researchers. It uses Llama 3 through the Groq API to detect phishing intent, urgency, and coercion in email content; extracts IOCs; performs dual-engine IP geolocation; visualizes attacker origin on an interactive Leaflet map; generates PDF forensic dossiers; and calculates a dynamic 0–100% risk score.\n\nBuilt with Python, Flask, HTML5, CSS3, JavaScript, Leaflet.js, IP-API, and IPWhoIs.",
+      "image": "/projects/arbiter.png",
+      "repo": "https://github.com/RealFiras/arbiter-security",
+      "stack": [
+        "Python",
+        "Flask",
+        "Groq API",
+        "Llama 3",
+        "JavaScript",
+        "Leaflet.js",
+        "IP-API",
+        "IPWhoIs"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "PassBit",
+      "category": "Privacy & Security",
+      "year": "2026",
+      "description": "PassBit is a privacy-first Manifest V3 Chrome extension that checks password strength locally, detects whether passwords have appeared in previous breaches through a privacy-preserving Pwned Passwords range query, suggests stronger alternatives, and stores favorites locally in an encrypted vault. It is dependency-free, uses no telemetry, and does not store passwords unless the user explicitly saves one.\n\nBuilt with JavaScript, HTML, CSS, Chrome Manifest V3, Web Crypto, and the Pwned Passwords API.",
+      "image": "/projects/passbit.webp",
+      "repo": "https://github.com/RealFiras/PassBit",
+      "stack": [
+        "JavaScript",
+        "Chrome MV3",
+        "Web Crypto",
+        "HIBP API",
+        "Local Encryption"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "",
+      "category": "",
+      "year": "",
+      "description": "",
+      "image": ""
+    }
+  ],
+  "roadmap": [
+    {
+      "id": "01",
+      "year": "2026",
+      "description": "Jordensec CTF QUALIFY 2026 — finished **Top 1**.",
+      "stack": [
+        "CTF",
+        "Cybersecurity",
+        "Top 1"
+      ]
+    },
+    {
+      "id": "02",
+      "year": "2026",
+      "description": "BRK-CYS CTF 2026 — finished **Top 3**.",
+      "stack": [
+        "CTF",
+        "Cybersecurity",
+        "Top 3"
+      ]
+    },
+    {
+      "id": "03",
+      "year": "2025",
+      "description": "P3rf3ctr00t CTF 2025 — finished **Top 6**.",
+      "stack": [
+        "CTF",
+        "Cybersecurity",
+        "Top 6"
+      ]
+    },
+    {
+      "id": "04",
+      "year": "2026",
+      "description": "ThryveCTF QUALIFY 2026 — finished **Top 7**.",
+      "stack": [
+        "CTF",
+        "Cybersecurity",
+        "Top 7"
+      ]
+    },
+    {
+      "id": "05",
+      "year": "2026",
+      "description": "ThryveCTF Finals 2026 — finished **Top 2**.",
+      "stack": [
+        "CTF",
+        "Cybersecurity",
+        "Top 2"
+      ]
+    }
+  ]
+}

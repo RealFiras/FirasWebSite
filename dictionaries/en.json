@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "stack": "Skills",
+    "projects": "Projects",
+    "roadmap": "Achievements",
+    "contact": "Contact"
+  },
+  "title": {
+    "about": "About",
+    "stack": "Skills",
+    "projects": "Projects",
+    "roadmap": "Achievements",
+    "contact": "Contact"
+  },
+  "scrollDown": "Scroll",
+  "contactMe": "Work With Me",
+  "exploreProjects": "Explore Projects",
+  "readFullVersion": "Read Full Story",
+  "frontendStack": "Security Core",
+  "backendStack": "Defensive Operations",
+  "databaseStack": "Intelligence & Analysis",
+  "toolsStack": "Production & Design",
+  "projectsIntro": "A space for *upcoming projects*, *experiments*, and *digital work*.",
+  "projectsScrollText": "Scroll to explore",
+  "projectsEndText": "More soon",
+  "roadmapDescription": "A record of CTF placements and the milestones shaping my cybersecurity path.",
+  "contactIntroText": "For collaborations in cybersecurity, production, design, or creative technology.",
+  "sendEmail": "Send an Email",
+  "directLine": "Direct Message",
+  "allRightsReserved": "All rights reserved.",
+  "contactModalDescription": "Send me a message and I’ll get back to you as soon as possible.",
+  "projectDetails": "Details about",
+  "aboutProject": "About the Project",
+  "technologies": "Technologies",
+  "liveDemo": "Live Demo",
+  "sourceCode": "Source Code",
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+    "goHome": "Back to Home"
+  }
+}
